@@ -3,7 +3,7 @@ adjustments-horizontal
 adjustments-vertical
 archive-box-arrow-down
 archive-box
-archive-box-xmark
+archive-boxx-mark
 arrow-down-circle
 arrow-down
 arrow-down-left
@@ -248,7 +248,7 @@ percent-badge
 phone-arrow-down-left
 phone-arrow-up-right
 phone
-phone-xmark
+phonex-mark
 photo
 play-circle
 play
@@ -285,7 +285,7 @@ signal-slash
 slash
 sparkles
 speaker-wave
-speaker-xmark
+speakerx-mark
 square2-stack
 square3-stack3-d
 squares2-x2
@@ -321,4 +321,4 @@ window
 wrench
 wrench-screwdriver
 xcircle
-xmark
+x-mark
