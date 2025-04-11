@@ -196,9 +196,9 @@ globe-alt
 globe-americas
 globe-asia-australia
 globe-europe-africa
-h-1
-h-2
-h-3
+h1
+h2
+h3
 hand-raised
 hand-thumb-down
 hand-thumb-up
@@ -287,8 +287,8 @@ sparkles
 speaker-wave
 speaker-x-mark
 square-2-stack
-square-3-stack-3-d
-squares-2-x-2
+square-3-stack-3d
+squares-2x2
 squares-plus
 star
 stop-circle
@@ -320,5 +320,5 @@ wifi
 window
 wrench
 wrench-screwdriver
-xcircle
+x-circle
 x-mark
